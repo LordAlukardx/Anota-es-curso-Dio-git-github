@@ -1,2 +1,2 @@
-# Anota-es-curso-Dio-git-github
-Repositória para entrega do progeto
+# Anotacoes-curso-Dio-github
+Repositória para entrega do progeto git/github
